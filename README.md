@@ -36,6 +36,9 @@ Note that the 'ecdf' method can produce different results compared to the histog
 The amount of variance can scale inversely based on the amount of data (less data -> more variance). The histogram-based estimate will still
 fall within the expected error of the 'ecdf' result.
 
+### Acknowledgements
+This work was supported by NIH grants R01EB020040, R01HL156034, and S10OD023680-01.
+
 | Citations | |
 |----------:|-|
 |[1]| Schlunk, S., & Byram, B. (2023). Methods for enhancing the robustness of the generalized contrast-to-noise ratio. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 1–1. https://doi.org/10.1109/TUFFC.2023.3289157|
